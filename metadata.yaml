@@ -1,0 +1,32 @@
+_repo: Pioneers-and-Foundersor-Recent-Workers-in-the-Mission-field_19308
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, C. M. (Charlotte Mary)
+    - Yonge, Charlotte Mary
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: ''
+gutenberg_issued: '2006-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19308'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missionaries'
+- !lcc 'BV'
+title: 'Pioneers and Founders
+
+  or, Recent Workers in the Mission field'
+url: http://www.gutenberg.org/ebooks/19308
